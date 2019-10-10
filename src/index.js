@@ -53,7 +53,7 @@ const createUsersWithMessages = async () => {
   });
 
   const user2 = new models.User({
-    username: 'ricardito',
+    username: 'javito',
   });
 
   const message1 = new models.Message({
